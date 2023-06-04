@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "fundamentos"
+    ],
+    "java.project.outputPath": "fundamentos",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
