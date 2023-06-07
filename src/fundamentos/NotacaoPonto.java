@@ -14,7 +14,7 @@ public class NotacaoPonto {
 		System.out.println(s);
 		
 		//Concatena
-		s = s.concat("!!!");
+		s = s.concat("!!");
 		System.out.println(s);
 	}
 }
