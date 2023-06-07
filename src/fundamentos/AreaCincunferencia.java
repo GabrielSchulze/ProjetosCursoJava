@@ -1,7 +1,7 @@
 package fundamentos;
 
 /**
- * Calcula e imprime o valor final da área de circunferência.
+ * Calcula e imprime o valor final da área de circunferência
  */
 public class AreaCincunferencia {
     public static void main(String[] args) {
