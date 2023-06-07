@@ -1,7 +1,7 @@
 package fundamentos;
 
 /**
- * Classe que representa meu primeiro programa em Java.
+ * Classe que representa meu primeiro programa em Java
  * @author Gabriel Schulze <gabrielschulze@hotmail.com>
  */
 public class PrimeiroPrograma {
